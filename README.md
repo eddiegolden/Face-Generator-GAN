@@ -17,4 +17,4 @@ The two rows in the middle which looks like impressionist art is several attempt
 ![DCGAN Results](gan.jpg)
 
 Thanks a lot for Udacity. It was an amazing online platform to study
-And if fellow students are reading, I would really suggest to fellow students not to copy-paste this project but to learn from it
+And if fellow students are reading, I would really suggest not to copy-paste this project but learn from it if it helps
